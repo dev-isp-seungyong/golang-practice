@@ -1,3 +1,3 @@
-  ## Go Lang
+## Go Lang
 
-  ### Head First Go
+### Head First Go
